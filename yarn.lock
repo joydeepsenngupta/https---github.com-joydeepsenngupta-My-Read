@@ -8788,7 +8788,7 @@
     "kleur" "^2.0.1"
     "sisteransi" "^0.1.1"
 
-"prop-types@^15.5.4", "prop-types@^15.6.1", "prop-types@^15.6.2":
+"prop-types@^15.5.4", "prop-types@^15.6.1", "prop-types@^15.6.2", "prop-types@^15.7.2":
   "integrity" "sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ=="
   "resolved" "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz"
   "version" "15.7.2"
@@ -9017,7 +9017,7 @@
     "strip-ansi" "4.0.0"
     "text-table" "0.2.0"
 
-"react-dom@^16.3.2":
+"react-dom@^16.14.0":
   "integrity" "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz"
   "version" "16.14.0"
@@ -9042,7 +9042,7 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.1.tgz"
   "version" "17.0.1"
 
-"react-router-dom@4.1.1":
+"react-router-dom@^4.1.1":
   "integrity" "sha1-MCGt4fLBYK+Xz5TiVZTF8pRYMCU="
   "resolved" "https://registry.npmjs.org/react-router-dom/-/react-router-dom-4.1.1.tgz"
   "version" "4.1.1"
@@ -9064,6 +9064,11 @@
     "path-to-regexp" "^1.7.0"
     "prop-types" "^15.6.1"
     "warning" "^4.0.1"
+
+"react-script@^2.0.5":
+  "integrity" "sha1-nawg+Xz/H7QPW0CE4/RLguMAFXI="
+  "resolved" "https://registry.npmjs.org/react-script/-/react-script-2.0.5.tgz"
+  "version" "2.0.5"
 
 "react-scripts@^2.0.2":
   "integrity" "sha512-mYBN1wNFRMcRl4vNHPh/JpDhweeEJJjGVyfdOIm0MOjGNH27QJJehbOCFi9p7KllWGXP2i/PXiNfcF3p/zn7Og=="
@@ -9119,7 +9124,7 @@
   optionalDependencies:
     "fsevents" "1.2.4"
 
-"react@^16.3.2":
+"react@^16.14.0":
   "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
   "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
   "version" "16.14.0"
